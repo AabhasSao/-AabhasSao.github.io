@@ -1,3 +1,3 @@
-#responsive gallery
+# responsive gallery
 
-##https://aabhassao.github.io/responsive-web/
+## https://aabhassao.github.io/responsive-web/
